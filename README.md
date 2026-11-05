@@ -1,3 +1,5 @@
+![Introduction to AI and Machine Learning workshops for BEST Belgrade](assets/workshop-banner.png)
+
 # Introduction to AI and Machine Learning
 
 **BEST Belgrade · October to November 2022**
